@@ -1,2 +1,2 @@
 # IA_Unicesumar
-Entrega de Trabalho e Exercícios
+Entrega de Trabalhos e Exercícios
